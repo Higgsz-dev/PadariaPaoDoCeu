@@ -1,3 +1,3 @@
 # PadariaPaoDoCeu
 
-Sistema para gerenciar a Padaria Oão do Céu
+Sistema para gerenciar a Padaria Pão do Céu
